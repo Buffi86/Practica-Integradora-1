@@ -1,1 +1,23 @@
-package.json
+{
+    "name": "Practica Integradora 1",
+    "version": "1.0.0",
+    "description": "Por Dani B",
+    "main": "app.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/Buffi86/Practica-Integradora-1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/Buffi86/Practica-Integradora-1/issues"
+    },
+    "homepage": "https://github.com/Buffi86/Practica-Integradora-1#readme",
+    "dependencies": {
+      "express": "^4.17.1"
+    }
+  }
