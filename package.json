@@ -2,7 +2,7 @@
     "name": "Practica Integradora 1",
     "version": "1.0.0",
     "description": "Por Dani B",
-    "main": "idex.js",
+    "main": "index.js",
     "scripts": {
       "start": "node app.js"
     },
