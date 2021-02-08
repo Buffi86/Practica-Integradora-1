@@ -2,9 +2,9 @@
     "name": "Practica Integradora 1",
     "version": "1.0.0",
     "description": "Por Dani B",
-    "main": "app.js",
+    "main": "idex.js",
     "scripts": {
-      "test": "echo\"Error: no test specified\" && exit 1"
+      "start": "node app.js"
     },
     "repository": {
       "type": "git",
